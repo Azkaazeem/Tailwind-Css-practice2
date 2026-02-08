@@ -1,3 +1,4 @@
+import React from 'react'  // <-- Yeh line zaroori hai
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'

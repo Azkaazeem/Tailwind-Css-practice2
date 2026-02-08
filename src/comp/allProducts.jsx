@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import ProductForm from './ProductForm.jsx';
-import DisplayProduct from './DisplayProduct.jsx/index.js';
+import DisplayProduct from './DisplayProduct.jsx';
 
 const Product = () => {
   // State to store the list of all added products
